@@ -11,7 +11,7 @@
 	<h2>Text added to show the pull request and merging</h2>
 	<h2>Text added by Ravikumar to check the CICD</h2>
 	<h2>Text added by Ravikumar to check the CICD</h2>
-	<h2>This is my first practice project</h2>
+	<h2>Text added by Ravikumar to check the CICD</h2>
 	<br/>
 	<br/>
 	<h5>Thank you! Visit again. </h1>
